@@ -250,3 +250,4 @@ Activity on 2023-05-19T00:00:00 - ci: Configure CI/CD pipeline
 Activity on 2023-05-25T00:00:00 - Merge pull request #21 from fast-vector-db/main
 Activity on 2023-05-26T00:00:00 - chore: Maintenance tasks
 Activity on 2023-06-01T00:00:00 - Update dependencies
+Activity on 2023-06-29T00:00:00 - Add support for "API integration"
