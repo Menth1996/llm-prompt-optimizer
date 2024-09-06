@@ -96,3 +96,4 @@ Activity on 2024-08-22T00:00:00 - Add support for "model training"
 Activity on 2024-08-29T00:00:00 - Update "security patch" documentation
 Activity on 2024-08-29T00:00:00 - Revert "Update "{}" documentation"
 Activity on 2024-08-29T00:00:00 - Merge pull request #32 from edge-ai-inference-engine/main
+Activity on 2024-09-06T00:00:00 - Update "UI component" documentation
