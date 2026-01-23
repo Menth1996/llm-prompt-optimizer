@@ -173,3 +173,4 @@ Activity on 2026-01-14T00:00:00 - Refactor "logging system" module
 Activity on 2026-01-20T00:00:00 - feat: Add new feature
 Activity on 2026-01-22T00:00:00 - Merge pull request #63 from gpu-memory-profiler/main
 Activity on 2026-01-23T00:00:00 - Add support for "model training"
+Activity on 2026-01-23T00:00:00 - docs: Update documentation
